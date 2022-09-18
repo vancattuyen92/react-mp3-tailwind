@@ -4,6 +4,7 @@ function App() {
   console.log('truong')
   console.log('tien')
   console.log('nguyen')
+  console.log('tuyen')
   return (
     <div className="App">
       <aside className='relative z-[100] w-60 h-screen bg-slate-300'>
